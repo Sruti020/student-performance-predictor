@@ -1,23 +1,27 @@
 # Student Performance Predictor
 
-## Project Description
-This project is part of my AI/ML Internship. It explores a simple dataset containing study hours and exam scores using Python and Pandas.
+## Project Overview
+This project predicts student exam performance using Linear Regression.
 
-## Objective
-- Create a sample dataset.
-- Load the dataset into a Pandas DataFrame.
-- Display the first five rows.
-- Generate descriptive statistics.
-- Check for missing values.
-
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
+- Scikit-learn
 - Google Colab
-- GitHub
 
-## Files
-- 'Student_Performance_Predictor.ipynb' – Contains the code for Task 1: Load and Explore the Data.
+## Tasks Completed
+
+### Task 1: Load and Explore the Data
+- Created a sample dataset
+- Displayed the first 5 rows
+- Generated descriptive statistics
+- Checked for missing values
+
+### Task 2: Train a Linear Regression Model
+- Split the dataset into training and testing sets
+- Trained a Linear Regression model
+- Displayed the slope (coefficient) and intercept
+
 
 ## Author
 Srutirani Sahoo
