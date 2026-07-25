@@ -22,6 +22,11 @@ This project predicts student exam performance using Linear Regression.
 - Trained a Linear Regression model
 - Displayed the slope (coefficient) and intercept
 
+### Task 3: Evaluate the Model
+- Predicted scores for the test dataset.
+- Calculated the Mean Absolute Error (MAE).
+- Compared actual and predicted scores.
+- Predicted the exam score for a student who studied 4.5 hours.
 
 ## Author
 Srutirani Sahoo
